@@ -170,7 +170,7 @@ footer {
     box-shadow: 0 9px #999;
   }
   
-  .button:hover {background-color: #3e8e41;
+  .button:hover {background-color: #3e8e41;transform: scale(1.5);
 
 }
   
@@ -183,3 +183,6 @@ footer {
     margin-left: 600px;margin-bottom: 50px;
       
   }
+.my-msg:hover{
+        transform: scale(1.5);
+}
