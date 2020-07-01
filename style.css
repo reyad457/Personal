@@ -138,7 +138,9 @@ a:hover {
     margin: 5% 25%;
     border-radius: 7px;
 }
-
+.my-msg:hover{
+    transform: scale(1.5);
+}
 .line1 {
     font-size: 18px;
 }
@@ -171,6 +173,7 @@ footer {
   }
   
   .button:hover {background-color: #3e8e41;
+    transform: scale(1.5);
 
 }
   
